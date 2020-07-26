@@ -1,2 +1,2 @@
-# hackerrank
+# HackerRank
 HackerRank solutions
